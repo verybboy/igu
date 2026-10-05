@@ -1,0 +1,14 @@
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\bin\Debug\net8.0\delegados_eventos3.exe
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\bin\Debug\net8.0\delegados_eventos3.deps.json
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\bin\Debug\net8.0\delegados_eventos3.runtimeconfig.json
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\bin\Debug\net8.0\delegados_eventos3.dll
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\bin\Debug\net8.0\delegados_eventos3.pdb
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\obj\Debug\net8.0\delegados_eventos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\obj\Debug\net8.0\delegados_eventos3.AssemblyInfoInputs.cache
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\obj\Debug\net8.0\delegados_eventos3.AssemblyInfo.cs
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\obj\Debug\net8.0\delegados_eventos3.csproj.CoreCompileInputs.cache
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\obj\Debug\net8.0\delegados_eventos3.dll
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\obj\Debug\net8.0\refint\delegados_eventos3.dll
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\obj\Debug\net8.0\delegados_eventos3.pdb
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\obj\Debug\net8.0\delegados_eventos3.genruntimeconfig.cache
+C:\Users\i0910938\source\repos\delegados_eventos\delegados_eventos3\obj\Debug\net8.0\ref\delegados_eventos3.dll

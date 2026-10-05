@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridTeclado", "GridTeclado\GridTeclado.csproj", "{7548C263-742E-4FEA-A3AF-441EF0F0E9F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridRaton", "GridRaton\GridRaton.csproj", "{D9229DB0-4623-416A-9380-03AF0113BB39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7548C263-742E-4FEA-A3AF-441EF0F0E9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7548C263-742E-4FEA-A3AF-441EF0F0E9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7548C263-742E-4FEA-A3AF-441EF0F0E9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7548C263-742E-4FEA-A3AF-441EF0F0E9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9229DB0-4623-416A-9380-03AF0113BB39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9229DB0-4623-416A-9380-03AF0113BB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9229DB0-4623-416A-9380-03AF0113BB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9229DB0-4623-416A-9380-03AF0113BB39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20142526-2188-4FC3-B98D-6B3134987B8F}
+	EndGlobalSection
+EndGlobal

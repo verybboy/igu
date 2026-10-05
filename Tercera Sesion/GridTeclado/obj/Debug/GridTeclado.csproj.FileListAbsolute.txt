@@ -1,0 +1,15 @@
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\bin\Debug\GridTeclado.exe.config
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\bin\Debug\GridTeclado.exe
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\bin\Debug\GridTeclado.pdb
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\obj\Debug\GridTeclado.csproj.AssemblyReference.cache
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\obj\Debug\MainWindow.g.cs
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\obj\Debug\App.g.cs
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\obj\Debug\GridTeclado_MarkupCompile.cache
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\obj\Debug\GridTeclado_MarkupCompile.lref
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\obj\Debug\MainWindow.baml
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\obj\Debug\GridTeclado.g.resources
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\obj\Debug\GridTeclado.Properties.Resources.resources
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\obj\Debug\GridTeclado.csproj.GenerateResource.cache
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\obj\Debug\GridTeclado.csproj.CoreCompileInputs.cache
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\obj\Debug\GridTeclado.exe
+C:\Users\i0910938\source\repos\Tercera Sesion\GridTeclado\obj\Debug\GridTeclado.pdb

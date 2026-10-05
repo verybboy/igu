@@ -1,0 +1,15 @@
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\obj\Debug\GridRaton.csproj.AssemblyReference.cache
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\obj\Debug\MainWindow.g.cs
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\obj\Debug\App.g.cs
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\obj\Debug\GridRaton_MarkupCompile.cache
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\obj\Debug\GridRaton_MarkupCompile.lref
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\bin\Debug\GridRaton.exe.config
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\bin\Debug\GridRaton.exe
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\bin\Debug\GridRaton.pdb
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\obj\Debug\MainWindow.baml
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\obj\Debug\GridRaton.g.resources
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\obj\Debug\GridRaton.Properties.Resources.resources
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\obj\Debug\GridRaton.csproj.GenerateResource.cache
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\obj\Debug\GridRaton.csproj.CoreCompileInputs.cache
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\obj\Debug\GridRaton.exe
+C:\Users\i0910938\source\repos\Tercera Sesion\GridRaton\obj\Debug\GridRaton.pdb
