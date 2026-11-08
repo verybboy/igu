@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "50C+Olavreo=",
+  "dgSpecHash": "Uc2GeAnEa7E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\i0910938\\source\\repos\\delegados_eventos\\delegados_eventos\\delegados_eventos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\repos\\igu\\delegados_eventos\\delegados_eventos\\delegados_eventos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.33\\microsoft.netcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.33\\microsoft.windowsdesktop.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.33\\microsoft.aspnetcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.33\\microsoft.netcore.app.host.win-x64.8.0.33.nupkg.sha512"
+  ],
   "logs": []
 }

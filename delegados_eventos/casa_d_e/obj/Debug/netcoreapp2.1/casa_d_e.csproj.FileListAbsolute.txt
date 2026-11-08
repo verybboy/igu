@@ -1,0 +1,11 @@
+D:\repos\igu\delegados_eventos\casa_d_e\obj\Debug\netcoreapp2.1\casa_d_e.csprojAssemblyReference.cache
+D:\repos\igu\delegados_eventos\casa_d_e\obj\Debug\netcoreapp2.1\casa_d_e.csproj.CoreCompileInputs.cache
+D:\repos\igu\delegados_eventos\casa_d_e\obj\Debug\netcoreapp2.1\casa_d_e.AssemblyInfoInputs.cache
+D:\repos\igu\delegados_eventos\casa_d_e\obj\Debug\netcoreapp2.1\casa_d_e.AssemblyInfo.cs
+D:\repos\igu\delegados_eventos\casa_d_e\bin\Debug\netcoreapp2.1\casa_d_e.deps.json
+D:\repos\igu\delegados_eventos\casa_d_e\bin\Debug\netcoreapp2.1\casa_d_e.runtimeconfig.json
+D:\repos\igu\delegados_eventos\casa_d_e\bin\Debug\netcoreapp2.1\casa_d_e.runtimeconfig.dev.json
+D:\repos\igu\delegados_eventos\casa_d_e\bin\Debug\netcoreapp2.1\casa_d_e.dll
+D:\repos\igu\delegados_eventos\casa_d_e\bin\Debug\netcoreapp2.1\casa_d_e.pdb
+D:\repos\igu\delegados_eventos\casa_d_e\obj\Debug\netcoreapp2.1\casa_d_e.dll
+D:\repos\igu\delegados_eventos\casa_d_e\obj\Debug\netcoreapp2.1\casa_d_e.pdb

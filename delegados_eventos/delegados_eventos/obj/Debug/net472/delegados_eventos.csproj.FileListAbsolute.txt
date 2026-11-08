@@ -1,0 +1,4 @@
+D:\repos\igu\delegados_eventos\delegados_eventos\obj\Debug\net472\delegados_eventos.csprojAssemblyReference.cache
+D:\repos\igu\delegados_eventos\delegados_eventos\obj\Debug\net472\delegados_eventos.csproj.CoreCompileInputs.cache
+D:\repos\igu\delegados_eventos\delegados_eventos\obj\Debug\net472\delegados_eventos.AssemblyInfoInputs.cache
+D:\repos\igu\delegados_eventos\delegados_eventos\obj\Debug\net472\delegados_eventos.AssemblyInfo.cs
