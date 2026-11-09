@@ -62,13 +62,12 @@ namespace figuras_animacion1
 
             double min = rand.Next((int)limX / 5);
             fig.Width = (min < 20 ? 20 : min);
+
             min = rand.Next((int)limY / 5);
             fig.Height = (min < 20 ? 20 : min);
 
             X = rand.Next((int)(limX - fig.Width));
-            Y = rand.Next((int)(limY - fig.Width));
-
-   
+            Y = rand.Next((int)(limY - fig.Height));
 
             fig.Width = rand.Next(40);
             fig.Height = rand.Next(40);
