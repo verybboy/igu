@@ -42,6 +42,10 @@ namespace figuras_animacion1
                 Canvas.SetLeft(figura.laFig, figura.posX);
                 Canvas.SetTop(figura.laFig, figura.posY);
             }
+
+            lstView.Items.Refresh();
+
+
         }
 
         private void BotonCrear_Click(object sender, RoutedEventArgs e)
@@ -50,6 +54,8 @@ namespace figuras_animacion1
 
             f = new Figura(miCanvas.ActualWidth, miCanvas.ActualHeight);
             listaFiguras.Add(f);
+
+            lstView.Items.Add(f); //Añadido en otra sesion
 
             miCanvas.Children.Add(f.laFig);
 

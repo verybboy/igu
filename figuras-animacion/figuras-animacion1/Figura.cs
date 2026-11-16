@@ -10,8 +10,10 @@ namespace figuras_animacion1
 {
     class Figura
     {
-
-        private double X, Y; //Coordenadas reales de la figura
+        //private double X, Y; //Coordenadas reales de la figura
+        public double X { get; set; }
+        public double Y { get; set; }
+        
         private double despX, despY; //Pixeles que se desplaza la figura
         private Shape fig; //Este atributo es realmente la primitiva que se va a añadir al children del canvas
 

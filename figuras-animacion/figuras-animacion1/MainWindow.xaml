@@ -9,6 +9,7 @@
     <Grid Name="GridPrincipal">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
+            <RowDefinition Height="2*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <Grid Name="GridBotones" Grid.Row="0">
@@ -26,5 +27,13 @@
                     Click="BotonAnimar_Click"/>
         </Grid>
         <Canvas Name="miCanvas" Grid.Row="1"/>
+        <ListView Name="lstView" Grid.Row="2" Grid.ColumnSpan="2">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="X" Width="100" DisplayMemberBinding="{Binding X}"/>
+                    <GridViewColumn Header="Y" Width="100" DisplayMemberBinding="{Binding X}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
     </Grid>
 </Window>

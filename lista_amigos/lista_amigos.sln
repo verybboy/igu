@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_amigos", "lista_amigos\lista_amigos.csproj", "{16DFEB0B-AA82-49B3-81A4-489203DFFEDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16DFEB0B-AA82-49B3-81A4-489203DFFEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DFEB0B-AA82-49B3-81A4-489203DFFEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DFEB0B-AA82-49B3-81A4-489203DFFEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DFEB0B-AA82-49B3-81A4-489203DFFEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B76F4A70-A69B-4455-9BBC-A5EB978ABBA5}
+	EndGlobalSection
+EndGlobal
