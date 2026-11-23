@@ -21,10 +21,12 @@ namespace cuadrosDialogo
     public partial class MainWindow : Window
     {
         private CDModal cdm;
+        private CDNoModal cdnm;
         public MainWindow()
         {
             InitializeComponent();
             cdm = null;
+            cdnm = null;
         }
 
         public void MenuItem_Click(object sender, RoutedEventArgs e)
@@ -44,8 +46,42 @@ namespace cuadrosDialogo
                     Brush br = MiCanvas.Background.Clone();
                     br.Opacity = cdm.Opacidad;
                     MiCanvas.Background = br;
+                    if (cdnm != null)
+                    {
+                        cdnm.Opacidad = br.Opacity;
+                    }
                 }
             }
+            else if (sender == CDNoModal)
+            {
+                if (cdnm != null)
+                {
+                    return;
+                }
+                cdnm = new CDNoModal();
+                cdnm.Owner = this; //Para que se superponga a la ventana principal y para que se cierre si la ventana principal se cierra
+
+                cdnm.Closed += Cdnm_Closed;
+
+                CDNoModal.IsEnabled = false;
+                Brush br = MiCanvas.Background;
+                cdnm.Opacidad = br.Opacity;
+                cdnm.CambioOpacidad += cdCambioOpacidad;
+                cdnm.Show();
+            }
+        }
+
+        private void Cdnm_Closed(object sender, EventArgs e)
+        {
+            CDNoModal.IsEnabled = true;
+            cdnm = null;
+        }
+
+        private void cdCambioOpacidad(object sender, CambioOpacidadEventArgs e)
+        {
+            Brush br = MiCanvas.Background.Clone();
+            br.Opacity = e.ValorOpacidad;
+            MiCanvas.Background = br;
         }
     }
 }

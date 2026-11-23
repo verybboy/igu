@@ -15,3 +15,5 @@ C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\cuadrosDialo
 C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\cuadrosDialogo.csproj.CoreCompileInputs.cache
 C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\cuadrosDialogo.exe
 C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\cuadrosDialogo.pdb
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\CDNoModal.g.cs
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\CDNoModal.baml
