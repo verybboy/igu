@@ -1,0 +1,31 @@
+C:\Defensas\Sessión Siete\AnimacionesListView\bin\Debug\AnimacionesListView.exe.config
+C:\Defensas\Sessión Siete\AnimacionesListView\bin\Debug\AnimacionesListView.exe
+C:\Defensas\Sessión Siete\AnimacionesListView\bin\Debug\AnimacionesListView.pdb
+C:\Defensas\Sessión Siete\AnimacionesListView\obj\Debug\AnimacionesListView.csproj.AssemblyReference.cache
+C:\Defensas\Sessión Siete\AnimacionesListView\obj\Debug\AnimacionesListView.csproj.SuggestedBindingRedirects.cache
+C:\Defensas\Sessión Siete\AnimacionesListView\obj\Debug\MainWindow.g.cs
+C:\Defensas\Sessión Siete\AnimacionesListView\obj\Debug\App.g.cs
+C:\Defensas\Sessión Siete\AnimacionesListView\obj\Debug\AnimacionesListView_MarkupCompile.cache
+C:\Defensas\Sessión Siete\AnimacionesListView\obj\Debug\AnimacionesListView_MarkupCompile.lref
+C:\Defensas\Sessión Siete\AnimacionesListView\obj\Debug\MainWindow.baml
+C:\Defensas\Sessión Siete\AnimacionesListView\obj\Debug\AnimacionesListView.g.resources
+C:\Defensas\Sessión Siete\AnimacionesListView\obj\Debug\AnimacionesListView.Properties.Resources.resources
+C:\Defensas\Sessión Siete\AnimacionesListView\obj\Debug\AnimacionesListView.csproj.GenerateResource.cache
+C:\Defensas\Sessión Siete\AnimacionesListView\obj\Debug\AnimacionesListView.csproj.CoreCompileInputs.cache
+C:\Defensas\Sessión Siete\AnimacionesListView\obj\Debug\AnimacionesListView.exe
+C:\Defensas\Sessión Siete\AnimacionesListView\obj\Debug\AnimacionesListView.pdb
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\bin\Debug\AnimacionesListView.exe.config
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\bin\Debug\AnimacionesListView.exe
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\bin\Debug\AnimacionesListView.pdb
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\obj\Debug\AnimacionesListView.csproj.AssemblyReference.cache
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\obj\Debug\MainWindow.g.cs
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\obj\Debug\App.g.cs
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\obj\Debug\AnimacionesListView_MarkupCompile.cache
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\obj\Debug\AnimacionesListView_MarkupCompile.lref
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\obj\Debug\MainWindow.baml
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\obj\Debug\AnimacionesListView.g.resources
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\obj\Debug\AnimacionesListView.Properties.Resources.resources
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\obj\Debug\AnimacionesListView.csproj.GenerateResource.cache
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\obj\Debug\AnimacionesListView.csproj.CoreCompileInputs.cache
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\obj\Debug\AnimacionesListView.exe
+C:\Users\inavi\source\repos\ControlListBoxListViewSesiónCompleta\AnimacionesListView\obj\Debug\AnimacionesListView.pdb

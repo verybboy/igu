@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ControlListBoxListViewSesiónCompleta",
+    "\\ControlListBoxListViewSesiónCompleta\\AnimacionesListView"
   ],
+  "SelectedNode": "\\ControlListBoxListViewSesiónCompleta\\AnimacionesListView\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }

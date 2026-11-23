@@ -1,0 +1,17 @@
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\cuadrosDialogo.csproj.AssemblyReference.cache
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\CDModal.g.cs
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\MainWindow.g.cs
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\App.g.cs
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\cuadrosDialogo_MarkupCompile.cache
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\cuadrosDialogo_MarkupCompile.lref
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\bin\Debug\cuadrosDialogo.exe.config
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\bin\Debug\cuadrosDialogo.exe
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\bin\Debug\cuadrosDialogo.pdb
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\CDModal.baml
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\MainWindow.baml
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\cuadrosDialogo.g.resources
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\cuadrosDialogo.Properties.Resources.resources
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\cuadrosDialogo.csproj.GenerateResource.cache
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\cuadrosDialogo.csproj.CoreCompileInputs.cache
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\cuadrosDialogo.exe
+C:\Users\i0910938\repos\igu\cuadrosDialogo\cuadrosDialogo\obj\Debug\cuadrosDialogo.pdb

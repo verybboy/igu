@@ -1,0 +1,26 @@
+﻿<Window x:Class="cuadrosDialogo.CDModal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cuadrosDialogo"
+        mc:Ignorable="d"
+        Title="CDModal" Height="450" Width="200">
+    <StackPanel Orientation="Vertical">
+        <Slider Name="SliderOpacidad"
+                Minimum="0" Maximum="1"
+                Orientation="Vertical"
+                HorizontalAlignment="Center"
+                Height="360"
+                Value="0"
+                TickPlacement="BottomRight"
+                TickFrequency="0.1"
+                IsSnapToTickEnabled="True"
+                ValueChanged="SliderOpacidad_ValueChanged"/>
+        <TextBlock Text="0" Name="Leyenda" HorizontalAlignment="Center"/>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Cancelar" Margin="10" Padding="15,2" IsCancel="True" Click="Cancelar_Click"/>
+            <Button Content="Aceptar" Margin="10" Padding="15,2" IsDefault="True" HorizontalAlignment="Right" Click="Aceptar_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

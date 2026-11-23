@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{992AEEE9-77BF-44C3-9817-14CF4D0934F8}|AnimacionesListView\\AnimacionesListView.csproj|C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\animacioneslistview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{992AEEE9-77BF-44C3-9817-14CF4D0934F8}|AnimacionesListView\\AnimacionesListView.csproj|solutionrelative:animacioneslistview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0BD1D7-AD42-4D12-8B17-B3F352501131}|ListView\\ListView.csproj|C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\listview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F0BD1D7-AD42-4D12-8B17-B3F352501131}|ListView\\ListView.csproj|solutionrelative:listview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0BD1D7-AD42-4D12-8B17-B3F352501131}|ListView\\ListView.csproj|C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\listview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0BD1D7-AD42-4D12-8B17-B3F352501131}|ListView\\ListView.csproj|solutionrelative:listview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DACAB1-9A8D-44C1-A439-A9D717B0C62A}|ListBox2\\ListBox2.csproj|C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\listbox2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DACAB1-9A8D-44C1-A439-A9D717B0C62A}|ListBox2\\ListBox2.csproj|solutionrelative:listbox2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DACAB1-9A8D-44C1-A439-A9D717B0C62A}|ListBox2\\ListBox2.csproj|C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\listbox2\\amigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DACAB1-9A8D-44C1-A439-A9D717B0C62A}|ListBox2\\ListBox2.csproj|solutionrelative:listbox2\\amigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155D465F-088B-45DC-93F2-96458FC78ACD}|ListBox1\\ListBox1.csproj|C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\listbox1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155D465F-088B-45DC-93F2-96458FC78ACD}|ListBox1\\ListBox1.csproj|solutionrelative:listbox1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155D465F-088B-45DC-93F2-96458FC78ACD}|ListBox1\\ListBox1.csproj|c:\\users\\inavi\\documents\\docencia\\igu\\guiones 23\\sesi\u00F3n 8\\controllistboxlistviewsesi\u00F3ncompleta\\controllistboxlistviewsesi\u00F3ncompleta\\listbox1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{155D465F-088B-45DC-93F2-96458FC78ACD}|ListBox1\\ListBox1.csproj|solutionrelative:listbox1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992AEEE9-77BF-44C3-9817-14CF4D0934F8}|AnimacionesListView\\AnimacionesListView.csproj|C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\animacioneslistview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992AEEE9-77BF-44C3-9817-14CF4D0934F8}|AnimacionesListView\\AnimacionesListView.csproj|solutionrelative:animacioneslistview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992AEEE9-77BF-44C3-9817-14CF4D0934F8}|AnimacionesListView\\AnimacionesListView.csproj|C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\animacioneslistview\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992AEEE9-77BF-44C3-9817-14CF4D0934F8}|AnimacionesListView\\AnimacionesListView.csproj|solutionrelative:animacioneslistview\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0BD1D7-AD42-4D12-8B17-B3F352501131}|ListView\\ListView.csproj|C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\listview\\amigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0BD1D7-AD42-4D12-8B17-B3F352501131}|ListView\\ListView.csproj|solutionrelative:listview\\amigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DACAB1-9A8D-44C1-A439-A9D717B0C62A}|ListBox2\\ListBox2.csproj|C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\listbox2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50DACAB1-9A8D-44C1-A439-A9D717B0C62A}|ListBox2\\ListBox2.csproj|solutionrelative:listbox2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListBox1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ListBox1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListBox1\\MainWindow.xaml",
+              "RelativeToolTip": "ListBox1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T17:13:39.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListBox2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ListBox2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListBox2\\MainWindow.xaml",
+              "RelativeToolTip": "ListBox2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T17:13:39.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListBox1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ListBox1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListBox1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ListBox1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwE4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:13:40.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\AnimacionesListView\\Figura.cs",
+              "RelativeDocumentMoniker": "AnimacionesListView\\Figura.cs",
+              "ToolTip": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\AnimacionesListView\\Figura.cs",
+              "RelativeToolTip": "AnimacionesListView\\Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:13:40.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListBox2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ListBox2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListBox2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ListBox2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwC8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:13:40.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListView\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ListView\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListView\\MainWindow.xaml",
+              "RelativeToolTip": "ListView\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T17:13:40.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Amigo.cs",
+              "DocumentMoniker": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListView\\Amigo.cs",
+              "RelativeDocumentMoniker": "ListView\\Amigo.cs",
+              "ToolTip": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListView\\Amigo.cs",
+              "RelativeToolTip": "ListView\\Amigo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowAoAAAApAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEASURBVDhP7Y8xSwJxGMZ/5/GPkAM/QTiccI5xUG65ieAUgv4dXMTBLxFEtTm4CC1RRPUtHFvERW7I5RqyIZBuEG5S5G0o/4hER7u/6YHn4XmfF3YYxm9jad43xbvyxL1wpXHXkLUXzSPJXeZkWwNYAME0kPpjncJBgdZxi8x\u002Bhslsgj7SVjSPxO/567xB2YrwLLQAaD\u002B1pXJdkTiOTfMmfy1IAYzeR5S8Eo7jfDf\u002BgxTAYrVA2Wrbg5\u002BLfs9nuVqSPc8avbmC2m1NqjfVX\u002BeT8IIFMHwdin7QlPNl9KFG2YrgI6Bz0kl8yQQGLwPpP/cJP0PSe2mKbpHuaTexYAd8AREpdKtYXY\u002BXAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-10-30T17:13:40.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListView\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ListView\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListView\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ListView\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwEoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:13:40.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\AnimacionesListView\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AnimacionesListView\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\AnimacionesListView\\MainWindow.xaml",
+              "RelativeToolTip": "AnimacionesListView\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T17:13:40.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\AnimacionesListView\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AnimacionesListView\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\AnimacionesListView\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AnimacionesListView\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAxwCsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:13:40.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Amigo.cs",
+              "DocumentMoniker": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListBox2\\Amigo.cs",
+              "RelativeDocumentMoniker": "ListBox2\\Amigo.cs",
+              "ToolTip": "C:\\Users\\inavi\\Documents\\Docencia\\IGU\\Guiones 23\\Sesi\u00F3n 8\\ControlListBoxListViewSesi\u00F3nCompleta\\ControlListBoxListViewSesi\u00F3nCompleta\\ListBox2\\Amigo.cs",
+              "RelativeToolTip": "ListBox2\\Amigo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:13:40.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
